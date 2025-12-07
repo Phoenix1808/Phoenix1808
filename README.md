@@ -1,14 +1,14 @@
-<h1 align="center">🔥 Phoenix18 🔥</h1>
+<h1 align="center">🔥 Phoenix1808 🔥</h1>
 <h3 align="center">Android Developer • Backend Learner • Competitive Programmer</h3>
 
 ---
 
 ### 👋 Hi, I'm Divyansh Goyal!
 - 🌱 Currently learning **Android Development (Kotlin + XML + Retrofit)**
-- 💻 Exploring **Backend development (Node.js + Express + APIs)**
-- ⚔️ Practicing **Competitive Programming** in C++ & Python  
-- ⚡ Building awesome apps like **GroundsHunt**, **AmongUs**, and more!
-- 💬 Ask me about Android, Kotlin, MVVM, APIs, or DSA
+- 💻 Exploring **Backend Development** with Node.js, Express & APIs
+- ⚔️ Practicing **Competitive Programming (C++ & Python)**
+- ⚡ Building exciting apps like **GroundsHunt** and **AmongUs**
+- 💬 Ask me about Android, Kotlin, MVVM, REST APIs, or DSA
 
 ---
 
@@ -41,24 +41,38 @@
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Phoenix1808&theme=radical" height="165"/>
+ 
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Phoenix1808&theme=tokyonight" />
+</p>
+
+<p align="center">
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Phoenix1808&theme=tokyonight" height="160" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Phoenix1808&theme=tokyonight" height="160" />
+</p>
+
+<p align="center">
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Phoenix1808&theme=tokyonight" height="160" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Phoenix1808&theme=tokyonight" height="160" />
 </p>
 
 ---
 
 ## 🔥 Current Projects
-- ⚽ **GroundsHunt Mobile App** – Android UI + API Integration  
-- 👁️ **Among Us** – Android UI + API Integration  
-- 🧠 **CP Practice** – Solving DSA problems in C++ + Python  
-- 🌐 Learning **REST APIs, MVC/MCP, Node.js**  
-- ✨ Building weekly backend mini-projects  
+- ⚽ **GroundsHunt (Android App)** – XML UI + Firebase + API Integration  
+- 👁️ **Among Us (Android App)** – Native UI + APIs  
+- 🧠 **CP Practice** – Improving problem-solving using C++ & Python  
+- 🌐 Learning **REST APIs, MVC, MCP, Node.js**  
+- ✨ Weekly backend mini-projects for growth  
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Connect With Me  
 📩 Email: **goyaldivyansh1111@gmail.com**  
-🔗 LinkedIn: **www.linkedin.com/in/divyansh-goyal-002a07309**  
+🔗 LinkedIn: **https://www.linkedin.com/in/divyansh-goyal-002a07309**  
 
 ---
 
