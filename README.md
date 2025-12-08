@@ -5,8 +5,8 @@
 
 ### 👋 Hi, I'm Divyansh Goyal!
 - 🌱 Currently learning **Android Development (Kotlin + XML + Retrofit)**
-- 💻 Exploring **Backend Development** with Node.js, Express & APIs
-- ⚔️ Practicing **Competitive Programming (C++ & Python)**
+- 💻 Exploring **Backend Development** with Node.js, Express, Django & APIs
+- ⚔️ Practicing **Competitive Programming (C++)**
 - ⚡ Building exciting apps like **GroundsHunt** and **AmongUs**
 - 💬 Ask me about Android, Kotlin, MVVM, REST APIs, or DSA
 
