@@ -40,23 +40,9 @@
 
 ---
 
-## 📊 GitHub Stats
-
+### 📊 GitHub Stats
 <p align="center">
- 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Phoenix1808&theme=tokyonight" />
-</p>
-
-<p align="center">
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Phoenix1808&theme=tokyonight" height="160" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Phoenix1808&theme=tokyonight" height="160" />
-</p>
-
-<p align="center">
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Phoenix1808&theme=tokyonight" height="160" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Phoenix1808&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Phoenix1808&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
