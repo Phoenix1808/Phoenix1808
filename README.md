@@ -63,7 +63,8 @@
 
 ## 🔥 Current Projects
 - ⚽ **GroundsHunt (Android App)** – XML UI + Firebase + API Integration  
-- 👁️ **Among Us (Android App)** – Native UI + APIs  
+- 👁️ **Among Us (Android App)** – Native UI + APIs
+- ⭐ **HostelEase (Android + Backend)** -- Native UI + APIs
 - 🧠 **CP Practice** – Improving problem-solving using C++ & Python  
 - 🌐 Learning **REST APIs, MVC, MCP, Node.js**  
 - ✨ Weekly backend mini-projects for growth  
