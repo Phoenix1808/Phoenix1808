@@ -40,13 +40,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Phoenix1808&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 🔥 Current Projects
 - ⚽ **GroundsHunt (Android App)** – XML UI + Firebase + API Integration  
 - 👁️ **Among Us (Android App)** – Native UI + APIs
