@@ -54,7 +54,6 @@
 ![MetaMask](https://img.shields.io/badge/MetaMask-F6851B?style=for-the-badge&logo=metamask&logoColor=white)
 ![Chainlist](https://img.shields.io/badge/Chainlist-0E76FD?style=for-the-badge)
 ![zkSync](https://img.shields.io/badge/zkSync-5A4FCF?style=for-the-badge)
-![Task Manager](https://img.shields.io/badge/Task%20Manager-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white)
 
@@ -63,12 +62,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Phoenix1808&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Phoenix1808&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Phoenix1808&theme=tokyonight" height="160" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Phoenix1808&theme=tokyonight&utcOffset=5.5" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Phoenix1808&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Phoenix1808&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
