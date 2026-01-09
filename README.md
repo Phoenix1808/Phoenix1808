@@ -22,11 +22,15 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 
+---
+
 ### **Android Development**
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![XML](https://img.shields.io/badge/XML-FF5722?style=for-the-badge)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Retrofit](https://img.shields.io/badge/Retrofit-009688?style=for-the-badge)
+
+---
 
 ### **Backend**
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -34,16 +38,22 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
+---
+
 ### **Competitive Programming**
 ![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)
 ![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge)
 ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
+
+---
 
 ### **Tools**
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 ![Remix IDE](https://img.shields.io/badge/Remix%20IDE-000000?style=for-the-badge)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 ![MetaMask](https://img.shields.io/badge/MetaMask-F6851B?style=for-the-badge&logo=metamask&logoColor=white)
+![Chainlist](https://img.shields.io/badge/Chainlist-0E76FD?style=for-the-badge)
+![zkSync](https://img.shields.io/badge/zkSync-5A4FCF?style=for-the-badge)
 ![Task Manager](https://img.shields.io/badge/Task%20Manager-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white)
@@ -58,15 +68,15 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Phoenix1808&theme=tokyonight" height="160" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Phoenix1808&theme=tokyonight" height="160" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Phoenix1808&theme=tokyonight&utcOffset=5.5" height="160" />
 </p>
 
 ---
 
 ## 🔥 Current Projects
 - ⚽ **GroundsHunt (Android App)** – XML UI + Firebase + API Integration  
-- 👁️ **Among Us (Android App)** – Native UI + APIs
-- ⭐ **HostelEase (Android + Backend)** -- Native UI + APIs
+- 👁️ **Among Us (Android App)** – Native UI + APIs  
+- ⭐ **HostelEase (Android + Backend)** – Native UI + APIs  
 - 🧠 **CP Practice** – Improving problem-solving using C++ & Python  
 - 🌐 Learning **REST APIs, MVC, MCP, Node.js**  
 - ✨ Weekly backend mini-projects for growth  
@@ -75,7 +85,7 @@
 
 ## 🤝 Connect With Me  
 📩 Email: **goyaldivyansh1111@gmail.com**  
-🔗 LinkedIn: **https://www.linkedin.com/in/divyansh-goyal-002a07309**  
+🔗 LinkedIn: **https://www.linkedin.com/in/divyansh-goyal-002a07309**
 
 ---
 
