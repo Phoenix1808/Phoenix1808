@@ -68,6 +68,7 @@
 ---
 
 ## 🔥 Current Projects
+- ⚡ **ChainPay-Verify (Web3)** - Js + Node.js + Ether.js + Solidity
 - ⚽ **GroundsHunt (Android App)** – XML UI + Firebase + API Integration  
 - 👁️ **Among Us (Android App)** – Native UI + APIs  
 - ⭐ **HostelEase (Android + Backend)** – Native UI + APIs  
