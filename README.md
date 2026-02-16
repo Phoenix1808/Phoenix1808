@@ -1,5 +1,5 @@
 <h1 align="center">🔥 Phoenix1808 🔥</h1>
-<h3 align="center">Android Developer • Backend Learner • Competitive Programmer</h3>
+<h3 align="center">Android Developer • Backend Learner • </h3>
 
 ---
 
@@ -8,6 +8,7 @@
 - 💻 Exploring **Backend Development** with Node.js, Express, Django & APIs
 - ⚔️ Practicing **Competitive Programming (C++)**
 - ⚡ Building exciting apps like **GroundsHunt** and **AmongUs**
+- 🧠 Developing Backend Projects like **SyncScribe** , **StackHub** and **TrustLock**
 - 💬 Ask me about Android, Kotlin, MVVM, REST APIs, or DSA
 
 ---
