@@ -1,89 +1,212 @@
 <h1 align="center">🔥 Phoenix1808 🔥</h1>
-<h3 align="center">Android Developer • Backend Learner • </h3>
+<h3 align="center">Android Developer • Full-Stack Engineer • Web3 Builder • System Thinker</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Phoenix1808&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
-### 👋 Hi, I'm Divyansh Goyal!
-- 🌱 Currently learning **Android Development (Kotlin + XML + Retrofit)**
-- 💻 Exploring **Backend Development** with Node.js, Express, Django & APIs
-- ⚔️ Practicing **Competitive Programming (C++)**
-- ⚡ Building exciting apps like **GroundsHunt** and **AmongUs**
-- 🧠 Developing Backend Projects like **SyncScribe** , **StackHub** and **TrustLock**
-- 💬 Ask me about Android, Kotlin, MVVM, REST APIs, or DSA
+## 👋 Hi, I'm Divyansh Goyal!
+
+🚀 A **2nd-year B.Tech student** building **real-world scalable systems** across Android, Backend & Web3.
+
+I don’t just build apps — I build **complete systems** with:
+- 📱 Frontend (Android)
+- ⚙️ Backend (APIs, DB, Auth)
+- 🌐 Blockchain (Smart Contracts, Event Systems)
+- 🧠 Real-time systems & architecture
 
 ---
 
-## 🚀 Tech Stack
+## 🏆 What Makes Me Different?
 
-### **Languages**
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+- ⚡ Built **real-time multiplayer systems**
+- 🔗 Integrated **Web3 with production-style architecture**
+- ☸️ Worked on **Kubernetes security analysis tools**
+- 🧠 Apply **DSA (Graphs, BFS, DFS)** in real-world projects
+- 🚀 Hackathon builder with **execution under pressure**
 
 ---
 
-### **Android Development**
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![XML](https://img.shields.io/badge/XML-FF5722?style=for-the-badge)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Retrofit](https://img.shields.io/badge/Retrofit-009688?style=for-the-badge)
+# 🔥 Highlight Projects
 
 ---
 
-### **Backend**
-![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+### ⚡ CloudGauge — *"ESLint for Cloud Costs"*
+> Real-time cloud cost intelligence inside your code editor
+
+- 🧠 AST-based cloud usage detection from code
+- 💰 Pre-deployment cost estimation (prevents bill shocks)
+- 🔍 PR-level cost analysis via GitHub bot
+- 🔗 Web3-based tamper-proof cost logs (Sepolia)
+- 📊 Developer-focused cost optimization suggestions
 
 ---
 
-### **Competitive Programming**
-![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)
-![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge)
-![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
+### 🛡️ SentinelMesh — *AI Model Security Scanner*
+> Trustless AI auditing platform
+
+- 🔍 Detects model vulnerabilities & poisoning risks
+- 📦 Stores reports on IPFS
+- 🔗 Anchors scan proofs on blockchain
+- 🧾 Immutable AI audit trail (model hash + scan hash)
 
 ---
 
-### **Tools**
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-![Remix IDE](https://img.shields.io/badge/Remix%20IDE-000000?style=for-the-badge)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-![MetaMask](https://img.shields.io/badge/MetaMask-F6851B?style=for-the-badge&logo=metamask&logoColor=white)
-![Chainlist](https://img.shields.io/badge/Chainlist-0E76FD?style=for-the-badge)
-![zkSync](https://img.shields.io/badge/zkSync-5A4FCF?style=for-the-badge)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white)
+### ☸️ VectorNetes — Kubernetes Attack Path Visualizer
+> CLI tool for cluster security & attack path detection
+
+- 🧠 Graph algorithms (BFS, DFS, Dijkstra)
+- 🔗 Privilege escalation path detection
+- 💥 Blast radius calculation
+- 🛡️ CVE (NVD) integration for vulnerability mapping
+- 📄 Generates security reports
+- 📦 Published NPM package (**k8s-av**)
+
+🏆 Built in 12-hour hackathon (Team: Labyrinth)
 
 ---
 
-## 📊 GitHub Stats
+### 🎮 CrewOrCrook (Among Us Clone)
+> Real-time multiplayer Android game
+
+- 📡 Socket.IO real-time communication
+- 🗺️ Google Maps live player tracking
+- ⚔️ Kill, report, roles system
+- ⚙️ Backend: Node.js + Redis + MongoDB
+- 🔄 Real-time sync across multiple devices
+
+---
+
+### 💸 ChainPay Verify — Web3 Payment Gateway
+> Blockchain-backed transaction verification system
+
+- 💳 Smart contract-based payment logging
+- 📡 Event-driven backend listener (ethers.js)
+- 📊 MongoDB transaction tracking
+- 🔐 Trustless payment verification
+
+---
+
+### 🏠 HostelEase — Full Stack System
+> Hostel complaint & management system
+
+- 🔐 JWT Authentication + Role-based system
+- 📱 Android frontend (MVVM + Retrofit)
+- ⚙️ Backend APIs with real deployment
+- 🔄 Auto-login + token handling
+
+---
+
+### 📊 RookNomics — Finance Android App
+> Investment insights & learning platform
+
+- 📈 Charting (MPAndroidChart)
+- 📰 News + Learn modules
+- 🔄 API-driven UI updates
+- 🎯 Clean XML-based UI
+
+---
+
+### 🧪 CrashTrace — Android SDK
+> Crash monitoring & analytics SDK
+
+- 📉 Automatic crash tracking
+- 📊 Session analytics
+- 📱 Screen lifecycle tracking
+- 📦 Modular SDK architecture
+
+---
+
+### 🌐 SyncScribe (WIP)
+> Real-time collaborative document editor (Google Docs clone)
+
+- 🧠 Live collaboration system
+- 📡 Real-time sync (planned via sockets)
+- ⚙️ Backend-driven document management
+
+---
+
+### 🔗 TrustLock (Web3)
+> Trustless escrow & dispute resolution system
+
+- 🔐 Smart contract escrow logic
+- ⚖️ Dispute handling mechanism
+- 🌐 Decentralized trust system
+
+---
+
+# 🚀 Tech Stack
+
+### 🧠 Languages
+`Kotlin` `Java` `JavaScript` `C++` `Python` `Solidity`
+
+---
+
+### 📱 Android
+- MVVM Architecture
+- LiveData, ViewModel
+- Retrofit, RoomDB
+- XML UI, Firebase
+
+---
+
+### ⚙️ Backend
+- Node.js, Express
+- MongoDB
+- JWT Authentication
+- REST APIs
+- Redis
+
+---
+
+### 🌐 Web3
+- Solidity Smart Contracts
+- Ethers.js
+- IPFS
+- Sepolia Testnet
+
+---
+
+### 🛠️ Tools
+- Android Studio
+- Postman
+- Docker
+- Git & GitHub
+- Vercel, Render
+
+---
+
+## 📊 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Phoenix1808&theme=tokyo-night&hide_border=true" />
 </p>
 
+---
+
+## 🧠 Current Focus
+
+- ⚡ Scaling **CloudGauge → SaaS product**
+- 🎮 Stabilizing **real-time multiplayer systems**
+- 🛡️ Expanding **AI security tooling (SentinelMesh)**
+- 📦 Building impactful **Android SDKs**
+- 🧠 Mastering **System Design + Backend Architecture**
 
 ---
 
-## 🔥 Current Projects
-- ⚡ **ChainPay-Verify (Web3)** - Js + Node.js + Ether.js + Solidity
-- ⚽ **GroundsHunt (Android App)** – XML UI + Firebase + API Integration  
-- 👁️ **Among Us (Android App)** – Native UI + APIs  
-- ⭐ **HostelEase (Android + Backend)** – Native UI + APIs  
-- 🧠 **CP Practice** – Improving problem-solving using C++ & Python  
-- 🌐 Learning **REST APIs, MVC, MCP, Node.js**  
-- ✨ Weekly backend mini-projects for growth  
-
-----
-
 ## 🤝 Connect With Me  
+
 📩 Email: **goyaldivyansh1111@gmail.com**  
 🔗 LinkedIn: **https://www.linkedin.com/in/divyansh-goyal-002a07309**
 
 ---
 
-⭐ *Thanks for visiting my profile! Have a great day 😊*
+## 💭 Developer Philosophy
+
+> "I don’t just build features. I build systems that scale, break, and evolve."
+
+---
+
+⭐ If you like my work, consider giving a star!
