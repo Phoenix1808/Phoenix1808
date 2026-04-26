@@ -11,11 +11,12 @@
 
 🚀 A **2nd-year B.Tech student** building **real-world scalable systems** across Android, Backend & Web3.
 
-I don’t just build apps — I build **complete systems** with:
-- 📱 Frontend (Android)
-- ⚙️ Backend (APIs, DB, Auth)
-- 🌐 Blockchain (Smart Contracts, Event Systems)
-- 🧠 Real-time systems & architecture
+I don’t build features — I build **systems that communicate, scale, and evolve**.
+
+- 📱 Frontend engineered for real-world usage, not demos  
+- ⚙️ Backend designed for data flow, reliability, and performance  
+- 🌐 Blockchain used as a **source of truth, not a buzzword**  
+- 📡 Real-time systems powered by event-driven architecture & synchronization
 
 ---
 
@@ -25,7 +26,7 @@ I don’t just build apps — I build **complete systems** with:
 - 🔗 Integrated **Web3 with production-style architecture**
 - ☸️ Worked on **Kubernetes security analysis tools**
 - 🧠 Apply **DSA (Graphs, BFS, DFS)** in real-world projects
-- 🚀 Hackathon builder with **execution under pressure**
+- 📊 Built CloudGauge (GitHub App) for CloudGauge Project from scratch  https://github.com/apps/cloudgauge-bot
 
 ---
 
@@ -68,7 +69,7 @@ I don’t just build apps — I build **complete systems** with:
 
 ---
 
-### 🎮 CrewOrCrook (Among Us Clone)
+### 🎮 CrewOrCrook
 > Real-time multiplayer Android game
 
 - 📡 Socket.IO real-time communication
@@ -116,6 +117,7 @@ I don’t just build apps — I build **complete systems** with:
 - 📊 Session analytics
 - 📱 Screen lifecycle tracking
 - 📦 Modular SDK architecture
+- 🔗 Published on https://jitpack.io/#Phoenix1808/CrashTrace
 
 ---
 
@@ -140,7 +142,7 @@ I don’t just build apps — I build **complete systems** with:
 # 🚀 Tech Stack
 
 ### 🧠 Languages
-`Kotlin` `Java` `JavaScript` `C++` `Python` `Solidity`
+`Kotlin` `Xml` `Java` `JavaScript` `C++` `Python` `Solidity` 
 
 ---
 
