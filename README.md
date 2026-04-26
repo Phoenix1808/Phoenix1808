@@ -1,9 +1,6 @@
 <h1 align="center">🔥 Phoenix1808 🔥</h1>
 <h3 align="center">Android Developer • Full-Stack Engineer • Web3 Builder • System Thinker</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Phoenix1808&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
 
 ---
 
@@ -63,9 +60,8 @@ I don’t build features — I build **systems that communicate, scale, and evol
 - 💥 Blast radius calculation
 - 🛡️ CVE (NVD) integration for vulnerability mapping
 - 📄 Generates security reports
-- 📦 Published NPM package (**k8s-av**)
+- 📦 Published NPM package (**k8s-av**) https://www.npmjs.com/package/k8s-av
 
-🏆 Built in 12-hour hackathon (Team: Labyrinth)
 
 ---
 
