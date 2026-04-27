@@ -39,7 +39,7 @@ I don’t build features — I build **systems that communicate, scale, and evol
 - 🔍 PR-level cost analysis via GitHub bot
 - 🔗 Web3-based tamper-proof cost logs (Sepolia)
 - 📊 Developer-focused cost optimization suggestions
-
+- ⚡ Built cloudGauge-bot (GitHub App) for CloudGauge Project from scratch  https://github.com/apps/cloudgauge-bot
 ---
 
 ### 🛡️ SentinelMesh — *AI Model Security Scanner*
