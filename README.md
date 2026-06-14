@@ -233,7 +233,7 @@ A native Android app for India's 300 million students and young professionals. A
 
 ---
 
-## 📈 Contribution activity
+## 📈 Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Phoenix1808&theme=tokyo-night&bg_color=0A0F1F&color=5EA8FF&line=A78BFA&point=EBEFF7&area=true&hide_border=true" />
