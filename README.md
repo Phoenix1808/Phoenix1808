@@ -8,7 +8,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0F1F,50:5EA8FF,100:A78BFA&height=220&section=header&text=Phoenix1808&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Android%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20Web3%20%E2%80%A2%20Systems&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://github.com/Phoenix1808">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=5EA8FF&center=true&vCenter=true&width=640&lines=Hi%2C+I'm+Divyansh+Goyal+%F0%9F%91%8B;I+build+systems+that+scale%2C+break+and+evolve;Android+%E2%80%A2+Backend+%E2%80%A2+Web3+%E2%80%A2+Real-time;Second-year+B.Tech.+Real-world+projects+only." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=5EA8FF&center=true&vCenter=true&width=640&lines=Hi%2C+I'm+Divyansh+Goyal+%F0%9F%91%8B;I+build+systems+that+scale%2C+break+and+evolve;Android+%E2%80%A2+Backend+%E2%80%A2+Web3+%E2%80%A2+Real-time;Third-year+B.Tech.+Real-world+projects+only." alt="Typing SVG" />
 </a>
 
 <br><br>
@@ -24,7 +24,7 @@
 
 ## 👋 About me
 
-🚀 A **2nd-year B.Tech** student building real-world scalable systems across **Android, Backend, and Web3**.
+🚀 A **3rd-year B.Tech** student building real-world scalable systems across **Android, Backend, and Web3**.
 
 I don't ship features — I ship **systems that communicate, scale, and evolve.**
 
@@ -55,13 +55,9 @@ I don't ship features — I ship **systems that communicate, scale, and evolve.*
 <a href="https://github.com/Phoenix1808/AuraPulse">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Phoenix1808&repo=AuraPulse&theme=tokyonight&bg_color=0A0F1F&title_color=5EA8FF&text_color=EBEFF7&icon_color=A78BFA&border_color=2A3550&hide_border=false" />
 </a>
-<a href="https://github.com/apps/cloudgauge-bot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Phoenix1808&repo=CloudGauge&theme=tokyonight&bg_color=0A0F1F&title_color=5EA8FF&text_color=EBEFF7&icon_color=A78BFA&border_color=2A3550&hide_border=false" />
-</a>
 
 </div>
 
-> ⚠️ Replace the `repo=AuraPulse` and `repo=CloudGauge` strings above with the **exact** repo names if different — the cards auto-pull stats once the names match.
 
 ---
 
