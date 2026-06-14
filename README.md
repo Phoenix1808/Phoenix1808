@@ -48,16 +48,6 @@ I don't ship features — I ship **systems that communicate, scale, and evolve.*
 
 ---
 
-# 🔥 Featured projects
-
-<div align="center">
-
-<a href="https://github.com/Phoenix1808/AuraPulse">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Phoenix1808&repo=AuraPulse&theme=tokyonight&bg_color=0A0F1F&title_color=5EA8FF&text_color=EBEFF7&icon_color=A78BFA&border_color=2A3550&hide_border=false" />
-</a>
-
-</div>
-
 
 ---
 
@@ -240,14 +230,6 @@ A native Android app for India's 300 million students and young professionals. A
 </div>
 
 ---
-
-## 🏆 Trophy case
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Phoenix1808&theme=tokyonight&no-frame=false&no-bg=false&row=1&column=7&margin-w=10&margin-h=10" />
-
-</div>
 
 ---
 
