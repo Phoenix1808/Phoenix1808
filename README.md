@@ -239,34 +239,6 @@ A native Android app for India's 300 million students and young professionals. A
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Phoenix1808&theme=tokyo-night&bg_color=0A0F1F&color=5EA8FF&line=A78BFA&point=EBEFF7&area=true&hide_border=true" />
 </p>
 
-<!-- Snake animation eating the contribution grid -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Phoenix1808/Phoenix1808/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
-> ⚠️ The snake animation requires a small one-time GitHub Action setup. Drop the workflow at `Phoenix1808/Phoenix1808/.github/workflows/snake.yml`:
-> ```yaml
-> name: Generate Snake
-> on:
->   schedule: [{ cron: "0 */12 * * *" }]
->   workflow_dispatch:
-> jobs:
->   generate:
->     runs-on: ubuntu-latest
->     steps:
->       - uses: Platane/snk@v3
->         with:
->           github_user_name: Phoenix1808
->           outputs: |
->             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
->       - uses: crazy-max/ghaction-github-pages@v3
->         with:
->           target_branch: output
->           build_dir: dist
->         env:
->           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-> ```
-
 ---
 
 ## 🧠 Current focus
