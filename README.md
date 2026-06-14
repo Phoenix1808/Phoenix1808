@@ -16,7 +16,7 @@
 <a href="https://github.com/Phoenix1808"><img src="https://komarev.com/ghpvc/?username=Phoenix1808&label=Profile%20views&color=5EA8FF&style=for-the-badge" /></a>
 <a href="https://www.linkedin.com/in/divyansh-goyal-002a07309"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:goyaldivyansh1111@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/apps/cloudgauge-bot"><img src="https://img.shields.io/badge/CloudGauge_Bot-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+
 
 </div>
 
